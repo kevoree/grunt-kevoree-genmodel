@@ -1,7 +1,7 @@
 {
   "name": "grunt-kevoree-genmodel",
   "description": "Generates a Kevoree model by parsing current Kevoree-entity module project",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "author": "Maxime Tricoire <max.tricoire@gmail.com>",
   "scripts": {
     "test": "grunt test"
@@ -16,7 +16,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "kevoree-gen-model": "^3.0.15"
+    "kevoree-gen-model": "^3.0.19"
   },
   "main": "Gruntfile.js",
   "directories": {
